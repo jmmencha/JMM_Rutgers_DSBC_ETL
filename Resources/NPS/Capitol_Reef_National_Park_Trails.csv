@@ -1,0 +1,41 @@
+﻿OBJECTID,TRLNAME,TRLALTNAME,TRLLABEL,TRLFEATTYPE,TRLSTATUS,TRLSURFACE,TRLTYPE,TRLCLASS,TRLUSE,UNITCODE,UNITNAME,EDITDATE,MAPMETHOD,MAPSOURCE,SOURCEDATE,XYERROR,INPLACES,GlobalID
+1,Grand Wash Trail,,Grand Wash Trail,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,2015-04-10T00:00:00.000Z,Unknown,,2014-07-31T00:00:00.000Z,Unknown,Yes,58a85c87-5df3-4b83-8676-822e21538145
+2,Burro Wash,,Burro Wash,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,77af19b5-d01d-47b1-bfa7-6dea0162852f
+3,Capitol Gorge,,Capitol Gorge,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,cf78887e-a28c-4061-a2d3-a231f523f824
+4,Capitol Gorge Spur Trail to Tanks,,Capitol Gorge Spur Trail to Tanks,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,ae81a422-61bd-4e7f-bc10-ffa01fb7f357
+5,Cassidy Arch,,Cassidy Arch,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,af3e5551-bcb6-4c07-8838-79c4149be309
+6,Cathedrals,,Cathedrals,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,76da4294-6683-4a20-a422-6f3c70ac3ea1
+7,Chimney Rock Canyon,,Chimney Rock Canyon,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,5c1bec1c-d89f-44cd-94bb-a9a15d5d4a1a
+8,Chimney Rock Loop,,Chimney Rock Loop,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,8163eb58-7ab8-4316-94ff-d0d8a22c9640
+9,Cohab Canyon,,Cohab Canyon,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,f4ce2fbf-0a58-4a34-93b7-15b6b8ab6b56
+10,Cohab Canyon Fruita Overlooks,,Cohab Canyon Fruita Overlooks,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,e4e22b9d-b5fc-4b0e-a403-b5b6d7086cbf
+11,Cottonwood Wash,,Cottonwood Wash,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,32b22039-8dc5-49a3-9ac0-97cdf588a19f
+12,Fremont Gorge Overlook,,Fremont Gorge Overlook,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,9d431ae0-4498-4a9a-8ede-d6d027ad19f7
+13,Golden Throne,,Golden Throne,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,7f6e63e4-7bcf-426e-84e2-1d9532798039
+14,Goosenecks Overlook,,Goosenecks Overlook,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,e31de698-59a5-432b-a045-ca5792584bfc
+15,Halls Creek and Narrows,,Halls Creek and Narrows,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,788c3c35-c49b-4ccf-9a5a-a676ce4fdd9f
+16,Headquarters Canyon,,Headquarters Canyon,Unofficial Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,5ad1b52c-fc5c-49d5-8261-14eb40489338
+17,Hickman Bridge,,Hickman Bridge,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,1420d6cc-d788-4eee-b447-1de20ba1a7c7
+18,Rim Overlook,,Rim Overlook,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,79d8e2b8-d4db-4b06-af5a-3b15540c4ac3
+19,Navajo Knobs,,Navajo Knobs,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,ac95dc6e-6d64-44f1-b14e-af6696b24b90
+20,Jailhouse Rock/Temple Rock,,Jailhouse Rock/Temple Rock,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,c1816287-ba17-4d87-9d87-b79a740f31c8
+21,Lower Cathedral Valley Overlook,,Lower Cathedral Valley Overlook,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,ed677da6-ce23-43f1-b7df-70212362377c
+22,Lower Muley Cutoff,,Lower Muley Cutoff,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,343d64b4-85cd-446f-b235-1885c3ad1a2a
+23,Lower Muley Twist,,Lower Muley Twist,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,1f4a6ca6-a4f2-4afc-b94a-c0e85c9f883c
+24,Lower Spring Canyon,,Lower Spring Canyon,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,6b6147f7-ace8-41b2-887b-585486e049d1
+25,Morrell Cabin,,Morrell Cabin,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,87a924e0-ac3e-4724-bc62-51889ae83c83
+26,Old Wagon Trail Loop,,Old Wagon Trail Loop,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,fb6f4f9c-083d-473d-b2b5-0ea2ff3cfc71
+27,Pleasant Creek ,,Pleasant Creek ,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,338b6198-27d4-4a17-918c-01d3f9f1114b
+28,Red Canyon,,Red Canyon,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,d17cb916-b896-4fe9-9b78-e6cb7298b488
+29,Sheets Gulch,,Sheets Gulch,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,88b60097-c75e-4f7a-acf0-39c4774151a5
+30,Strike Valley Overlook,,Strike Valley Overlook,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,89b3de8e-24ea-41d8-88e7-b432a28e6b63
+31,Sulphur Creek,,Sulphur Creek,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,ec68bc36-5a86-420d-ac9e-5d8f782d20ea
+32,Sunset Point,,Sunset Point,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,5189adc0-ca2b-4f61-a29a-431ccfbedb3d
+33,Surprise Canyon,,Surprise Canyon,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,74d267a8-97e3-4a28-986e-650faea70b15
+34,Upper Cathedral Valley Overlook,,Upper Cathedral Valley Overlook,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,d669437c-b62b-4b13-a09c-cf0b395ab3fd
+35,Upper Muley Twist,,Upper Muley Twist,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,114089c3-fd71-4859-8b61-967000c2ec45
+36,Upper Spring Canyon,,Upper Spring Canyon,Unmaintained Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,f23256c5-5702-4a18-a4d7-a0a9184e4e1a
+37,Upper South Desert Overlook,,Upper South Desert Overlook,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,fb626626-2a0e-4c04-8e97-e2442c7a9f88
+38,Frying Pan,,Frying Pan,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,4cdb8157-b86e-464d-a721-d2d6d31b27cb
+39,Visitor Center to Campground,,Visitor Center to Campground,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,636f059b-497d-472e-82c8-5fe5907881c6
+40,Fremont River ,,Fremont River ,Park Trail,Existing,Native,Standard Terra Trail,,Hiker/Pedestrian,CARE,Capitol Reef National Park,, ,,,Unknown,Yes,fe6fcf5f-45d4-4cf7-a1dc-3b4eed3a83bb

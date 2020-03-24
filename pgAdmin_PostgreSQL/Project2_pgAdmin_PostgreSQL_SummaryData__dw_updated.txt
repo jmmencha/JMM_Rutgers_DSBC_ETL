@@ -1,0 +1,29 @@
+-- Table: public.dw_updated
+
+-- DROP TABLE public.dw_updated;
+
+CREATE TABLE public.dw_updated
+(
+    "National Park Name" text COLLATE pg_catalog."default",
+    "National Park Latitude Coordinate" double precision,
+    "National Park Longitude Coordinate" double precision,
+    "National Park Latitude & Longitudinal Coordinate Combination" text COLLATE pg_catalog."default",
+    "Description" text COLLATE pg_catalog."default",
+    "Visitors" bigint,
+    "ID" text COLLATE pg_catalog."default",
+    "States" text COLLATE pg_catalog."default",
+    "Area_sq_km" double precision,
+    "Area_acres" double precision,
+    "Date Established_readable" text COLLATE pg_catalog."default",
+    "Date Established_unix" bigint,
+    "World Heritage Site" boolean,
+    "NPS Link" text COLLATE pg_catalog."default",
+    "Image URL" text COLLATE pg_catalog."default",
+    "Image Attribution" text COLLATE pg_catalog."default",
+    "Image Attribution URL" text COLLATE pg_catalog."default"
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.dw_updated
+    OWNER to postgres;

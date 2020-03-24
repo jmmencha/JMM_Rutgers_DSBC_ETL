@@ -1,0 +1,4 @@
+﻿OBJECTID,TRLNAME,TRLALTNAME,TRLLABEL,TRLFEATTYPE,TRLSTATUS,TRLSURFACE,TRLTYPE,TRLCLASS,TRLUSE,UNITCODE,UNITNAME,EDITDATE,MAPMETHOD,MAPSOURCE,SOURCEDATE,XYERROR,INPLACES,GlobalID
+1,Chinese Arch,,Chinese Arch,Park Trail,Existing,,Standard Terra Trail,Unknown,Hiker/Pedestrian,GOSP,Golden Spike National Historic Site,2015-10-06T00:00:00.000Z,Unknown,,2014-07-31T00:00:00.000Z,,Yes,4cc961dc-c272-42db-aaeb-59e5fb4025b4
+2,Last Cut Trail,,Last Cut Trail,Park Trail,Existing,,Standard Terra Trail,Unknown,Hiker/Pedestrian,GOSP,Golden Spike National Historic Site,2015-10-06T00:00:00.000Z,Unknown,,2014-07-31T00:00:00.000Z,,Yes,0cdbd9b9-d103-4fc9-a014-2738c9b7021b
+3,Big Fill Trail,,Big Fill Trail,Park Trail,Existing,,Standard Terra Trail,Unknown,Hiker/Pedestrian,GOSP,Golden Spike National Historic Site,2015-10-06T00:00:00.000Z,Unknown,,,,Yes,eebb511b-f458-45fb-a4a2-6c0d137dd86d

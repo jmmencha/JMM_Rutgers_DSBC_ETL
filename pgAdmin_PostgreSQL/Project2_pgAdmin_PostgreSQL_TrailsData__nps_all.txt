@@ -1,0 +1,31 @@
+-- Table: public.nps_all
+
+-- DROP TABLE public.nps_all;
+
+CREATE TABLE public.nps_all
+(
+    "NationalParkName" text COLLATE pg_catalog."default",
+    "OBJECTID" bigint,
+    "TRLNAME" text COLLATE pg_catalog."default",
+    "TRLALTNAME" text COLLATE pg_catalog."default",
+    "TRLLABEL" text COLLATE pg_catalog."default",
+    "TRLFEATTYPE" text COLLATE pg_catalog."default",
+    "TRLSTATUS" text COLLATE pg_catalog."default",
+    "TRLSURFACE" text COLLATE pg_catalog."default",
+    "TRLTYPE" text COLLATE pg_catalog."default",
+    "TRLCLASS" text COLLATE pg_catalog."default",
+    "TRLUSE" text COLLATE pg_catalog."default",
+    "UNITCODE" text COLLATE pg_catalog."default",
+    "EDITDATE" text COLLATE pg_catalog."default",
+    "MAPMETHOD" text COLLATE pg_catalog."default",
+    "MAPSOURCE" text COLLATE pg_catalog."default",
+    "SOURCEDATE" text COLLATE pg_catalog."default",
+    "XYERROR" text COLLATE pg_catalog."default",
+    "INPLACES" text COLLATE pg_catalog."default",
+    "GlobalID" text COLLATE pg_catalog."default"
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.nps_all
+    OWNER to postgres;

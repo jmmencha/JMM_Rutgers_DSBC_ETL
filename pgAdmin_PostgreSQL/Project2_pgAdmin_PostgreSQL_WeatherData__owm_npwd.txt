@@ -1,0 +1,22 @@
+-- Table: public.owm_npwd
+
+-- DROP TABLE public.owm_npwd;
+
+CREATE TABLE public.owm_npwd
+(
+    "National Park Name" text COLLATE pg_catalog."default",
+    "City" text COLLATE pg_catalog."default",
+    "Country" text COLLATE pg_catalog."default",
+    "Latitude" double precision,
+    "Longitude" double precision,
+    "Date" text COLLATE pg_catalog."default",
+    "Wind Speed" double precision,
+    "Cloudiness" bigint,
+    "Humidity" bigint,
+    "Max Temp" double precision
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.owm_npwd
+    OWNER to postgres;
